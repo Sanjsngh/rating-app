@@ -1,0 +1,17 @@
+{
+  "name": "test_assessment",
+  "version": "1.0.0",
+  "description": "test mern",
+  "main": "./server/index.js",
+  "scripts": {
+    "start": "npm install && cd ./server && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  },
+  "engines": {
+    "node": ">=15 <=20"
+  }
+}
